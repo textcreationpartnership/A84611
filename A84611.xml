@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Five most noble speeches spoken to his Majestie returning out of Scotland into England. The first spoken by the Recorder of Yorke. The second by the Major of Stamford. The third by the Major of Huntington. The fourth by the Lord Major of London. The fifth by the Recorder of London. Also the relation after what manner and where his Majestie knighted the Lord Major and the recorder of London. With the discription of what honourable tryumph his Majestie did ride into the city of London being accompanied with the Queene, the Prince, the Duke of Yorke and the Lady Mary.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84611</idno>
+            <idno type="STC">Wing F1114</idno>
+            <idno type="STC">Thomason E199_32</idno>
+            <idno type="STC">ESTC R11633</idno>
+            <idno type="EEBO-CITATION">99859092</idno>
+            <idno type="PROQUEST">99859092</idno>
+            <idno type="VID">157530</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84611)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157530)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E199[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Five most noble speeches spoken to his Majestie returning out of Scotland into England. The first spoken by the Recorder of Yorke. The second by the Major of Stamford. The third by the Major of Huntington. The fourth by the Lord Major of London. The fifth by the Recorder of London. Also the relation after what manner and where his Majestie knighted the Lord Major and the recorder of London. With the discription of what honourable tryumph his Majestie did ride into the city of London being accompanied with the Queene, the Prince, the Duke of Yorke and the Lady Mary.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Greensmith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157530:1" rendition="simple:additions"/>
+            <p> FIVE MOST NOBLE SPEECHES Spoken to his Majeſtie returning out of SCOTLAND INTO ENGLAND.
+<list>
+                  <item>The firſt ſpoken by the Recorder of <hi>Yorke.</hi>
+                  </item>
+                  <item>The ſecond by the Major of <hi>Stamford.</hi>
+                  </item>
+                  <item>The third by the Major of <hi>Huntington.</hi>
+                  </item>
+                  <item>The fourth by the Lord Major of <hi>London.</hi>
+                  </item>
+                  <item>The fifth by the Recorder of <hi>London.</hi>
+                  </item>
+               </list> Alſo the Relation after what manner and where his Majeſtie Knighted the Lord Major and the Recorder of <hi>London.</hi> With the Diſcription of what honoura<g ref="char:EOLhyphen"/>ble Tryumph his Majeſtie did ride into the City of London, being accompanied with the Queene, the Prince, the Duke of <hi>Yorke</hi> and the Lady <hi>Mary.</hi>
+            </p>
+            <p>LONDON Printed for <hi>John Greenſmith.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:157530:2"/>
+            <pb facs="tcp:157530:2"/>
+            <head>THE Recorder of <hi>Yorkes</hi> SPEECH to his Majeſtie.</head>
+            <opener>
+               <salute>Moſt Royall Soveraigne,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Ith a cheerfull auſpicious eye, behold your well affected and loyall ſubiects gather them ſelves together to expreſſe their duty, &amp; love to your moſt Sacred Majeſty, whoſe indul<g ref="char:EOLhyphen"/>gent, and vigilant care hath beene expreſſed to this our Citie, and populated Kingdome, by the tedi<g ref="char:EOLhyphen"/>ous and irkeſome travels, which for our ſakes you have vndertaken. For which we are ſo farre oblieged to your Sacred Maieſty, that ſhould each perſon here preſent, either man, woman, or child, live a double Methuſalaes age, yet are we not able to recompence that love, which your Maieſty hath extended vnto vs.</p>
+            <p>Our well tun'd Bells at this preſent time, to congratulate the welcome of ſo great a Prince, turne themſelves, and doe willingly ſtand, as if time commanded them ſo to doe.</p>
+            <p>Dread Soveraigne our hearts through a Sea of joyfull teares doe endeavour to ſwim vnto your Grace, being more then abundantly ioyfull of your moſt ſacred Maie<g ref="char:EOLhyphen"/>ſties returne, our moſt fertile ſhire, received not ſo
+<pb facs="tcp:157530:3"/> much diſcontent in the billiting of vntutord Soldiers, as it doth this time joy, at the the ſafe returne of ſo good a King.</p>
+            <p>Our wives conceive with ioy, our childrens tongues are vntyed with alacrity, and each one doth ſtrive to cry welcome home to ſo indulgent a Soveraigne, our fields doe ſeeme triumphing in their gay diapry to welcome home your Sacred Maieſty, the woods doe ſeeme to contemne a falling autumne or a nipping winter and aſſume vnto thmſelves their Spring Liveries and all to wellcome home your moſt Sacred Maieſty.</p>
+            <p>Which is the totall eye of this our Land, which with<g ref="char:EOLhyphen"/>out your Royall Preſence ſeem'd deiected and caſt downe, but now like as the Spring after a chill and fro<g ref="char:EOLhyphen"/>zen winter, is welcome being accompanied with the comfortable and glorious funne-beames to each ſenſi<g ref="char:EOLhyphen"/>tive and viſible creature, even ſo your Sacred Maieſty being the mortall Sunne, from whom we Brittanes re<g ref="char:EOLhyphen"/>ceive our ſafeſt warmth, doth tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> each frozen heart, and makes it free from the leaſt of chillneſſe, and cheerfull is to welcome home our moſt Royall and lawfull King,</p>
+            <p>O may your Majeſtyes Raigne heareafter be more happy and peaceable: that Sion may flouriſh with the truth, ſo ſhall your Maieſties Piety be eternally croni<g ref="char:EOLhyphen"/>cled, in the meane while heere is not a heart ſo farre from allegiance to his ſoveraigne King but that will ſay</p>
+            <trailer>Long live King Charles. Amen Amen,</trailer>
+         </div>
+         <div type="part">
+            <pb facs="tcp:157530:3"/>
+            <head>The Major of STAMFORDS <hi>SPEECH</hi> to his Majeſtie.</head>
+            <p>MAy it pleaſe your moſt <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>acred Majeſty whoſe piety is ſo much admired throughout the Cariſtian world to giue liberty vnto your abject Lieutenant in his owne Language to expreſſe the loue of this well affected Towne.</p>
+            <p>Each would have bin glad to have entertained the place of a Speaker, their hearts unto your Sacred Majeſty are ſo Loyally bent, whoſe wiſhes have hitherto been nothing more but for the ſafe returne of your moſt Sacred Majeſty, which to behold each man from his diſturbed breaſt doth griefe exile, being happy onely in their Soveraignes returne.</p>
+            <p>Their daily Votes are theſe that all ill effected Traytors may be deſtroyed, your Majeſtie may be eternally bleſſed, your Spouſe and Offſpring perpetually flouriſh.</p>
+         </div>
+         <div type="part">
+            <head>The Major of HUNTINGTON'S Speech to his Majeſtie.</head>
+            <opener>
+               <salute>Dread Soveraigne,</salute>
+            </opener>
+            <p>VVHoſe abſence onely did cauſe our preſent griefe for the foot to be without a head how is it able to ſubſiſt, no more can a diſturbed kingdome without it's King.</p>
+            <p>Religion hath beene daily abuſed, and Traytors have and doe daily ſtrive to enterpriſe our fatall woe but now we are ſo much animated in your Sacred Majeſties preſence, that although <hi>Romes</hi> Hens ſhould daily hatch of its Prepoſterous Egges, crocodilicall chickens, yet under the ſhield of Faith by you our moſt Royall Sove<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aigne defended, and by the King of Heavens as I ſtand, and your moſt medicable councell would we not be fearefull to with<g ref="char:EOLhyphen"/>ſtand them.</p>
+            <pb facs="tcp:157530:4"/>
+            <p> Your Sacred Majeſties preſence is our ſole delight and ſufficient pro<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ection againſt all our enemies, in thy de<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence O King ſhal God ariſe, and his and thy enemies and ſhall be deſtroyed, for you are Religions Gardian, which we wanting were feareful<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of pernitious er<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ours.</p>
+            <p>May it pleaſe your Majeſty to give me Lycenſe to tell how dangerous times are brother is timerous and fearefull to truſt the other, Sects and Sch<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſmes doe daily encreaſe, but your Royall Majeſty being returned our confidence is this, that truth ſhall take place, and the Religion which was imbraced in the time of Q. <hi>Elizabeth</hi> and your moſt wiſe and Royall Father of bleſſed Memory King <hi>Iames</hi> ſhall be conſtantly adored, which being granted Loyall and well affected Subjects will be perpetually your humble ſlaves, preſenting unto the God of Heaven their ſer<g ref="char:EOLhyphen"/>vent votes and prayers, that he wou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, be pleaſed to bleſſe your Sacred Majeſty, that you may enjoy the happ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſſe of this world and Eternall bhſſe in this world to come.</p>
+         </div>
+         <div type="part">
+            <head>Now followes the Relation of the Enter<g ref="char:EOLhyphen"/>taiament of his Majeſtie from Kingsland to London being met there by the Lord Major, the Recorder and the reſt of the Aldermen accompanied with the chiefe of the Twelve Com<g ref="char:EOLhyphen"/>panies.</head>
+            <p>THere was at the end of <hi>Kingsland</hi> at the firſt field to<g ref="char:EOLhyphen"/>wards <hi>London</hi> a Tent pitch't where the Lord with the Lord Major and the Aldermen did attend his Majeſties comming, who having ſtayd about an houſe his Maje<g ref="char:EOLhyphen"/>ſty came by.</p>
+            <p>Then the Lords, the Lord Major, the Recorder, and the reſt of the Aldermen went to the Kings Coach, and having ſaluted his Majeſty with a welcome home, the Major delivered up his Sword to his Majeſty.</p>
+            <p>After which both he and the <hi>Recorder</hi> did make a SPEECH to this effect.</p>
+            <div type="subpart">
+               <pb facs="tcp:157530:4"/>
+               <head>The Lord Major and the Recorders Speech.</head>
+               <opener>
+                  <salute>Moſt Renowned Soveraigne.</salute>
+               </opener>
+               <p>
+                  <hi>After the dangers and troubles of the times, your Maje<g ref="char:EOLhyphen"/>ſties humble ſubjects are vnexpreſſeably joyfull at your happy and ſafe returne from Scotland.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="part">
+            <head>The maner of his Maieſtyes knighting the Lord Maior and and the Recorder of this Citie of London.</head>
+            <p>After their ſallutations were inded it pleaſed his Maieſty, to draw his Sword and immediately in the field in the preſence there aſembied created them both knights.</p>
+            <p>After which his Maieſty mounted his ſteed, provided there ready for him with a stately <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dle imbroydered with gold &amp; ſilver.</p>
+            <p>Then the Prince alſoe mounted his ſteed, cloathed with an ex<g ref="char:EOLhyphen"/>traordinarie rich cloath hanging downe almoſt to the ground very ſumptuouſly.</p>
+            <p>The Queene alſo and the Duke of Yorke and the Princes and and ſome other Lad<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es were alſo caried out of the coach in which they came, into a rich coach that there was in read<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſſe for them his Maieſty honored the lord Maior ſo farre after wards as for that day to beare the ſword before him, for which he gave his Maieſty thanks.</p>
+            <p>The Relation of the great Triumph.</p>
+            <p>Firſt of all did ride the officers and Sergeants of the Citie arayd in decent cloaks of ſcarlet colour trim'd with gold lace.</p>
+            <p>Next followed the 24 Companyes each Company with a trum<g ref="char:EOLhyphen"/>peter before them likewiſe a horſeman which bore a Pendant with the armes of the Company in it.</p>
+            <p>After them the twelue Companyes having every man a lackey running by his ſide cloathed with caſſocks trimb'd with ribins of colours of the Companies, thus they marcht in order having rich cloathes and gold chaines about their necks.</p>
+            <pb facs="tcp:157530:5"/>
+            <p> In this manner came the Aldermen</p>
+            <p>Firſt the Trumpeters, then the Atorneys of the Citie with two maces, after them the Iudges of the citie in blacke gownes, then followed the Aldermen in their ſcarlet gownes then the kings Trumpeters, after them the gentlemen pentioners, next the Heralds, and after them the Lords, in great pompe, then follow<g ref="char:EOLhyphen"/>ed the ſtate, firſt foure maces then the Lord Major with the Lord high Martiall on the one hand of him, and the Lord high cham<g ref="char:EOLhyphen"/>berlaine on the other hand.</p>
+            <p>Then did his Majeſty in the next place his Groome leading his horſe, and all the people crying God ſave king <hi>Charles,</hi>
+            </p>
+            <p>In the next place rod the Marquiſſe, and after him the Queen and the Duke of <hi>Yorke,</hi> and the Lady <hi>Mary</hi> and after the Guard, and after them many thouſands of people both on horſe &amp; foot.</p>
+            <p>Thus they rod in Tryumph to <hi>Guild-hall</hi> where his Majeſty din'd, and afterwards was conducted to his Palace at <hi>VVeſtmin<g ref="char:EOLhyphen"/>ſter.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
